@@ -1,0 +1,10 @@
+Please read this carefully before proceeding:
+
+1. The File Dataextraction contains the latest details of all the details extracted during the mapping study
+2. The Folder Collecting articles contains the raw result got during the searching of a library
+3. The folder Search Materials contains:
+   a. All the selected paper in the folder selected papers
+   b. All the open coding results in the folder selected papers_opencoding
+   c. Intermediate results of data selection process
+
+
